@@ -47,8 +47,9 @@
             }
 
             .title {
-                font-size: 84px;
+                font-size: 60px;
                 font-family: "Nunito", sans-serif;
+                font-weight: bold;
                 color: #000000;
             }
 
@@ -60,10 +61,12 @@
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+                font-family: "Nunito", sans-serif;
             }
 
             .m-b-md {
-                margin-bottom: 30px;
+                margin-bottom: 150px;
+                margin-left: 30px;
             }
         </style>
     </head>
